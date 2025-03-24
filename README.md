@@ -1,4 +1,8 @@
-# Latihan-OAK
+# Latihan-OAK 
+## Fikri Afrian Nugraha
+## NIM : 09011382429149
+## SKU2A
+
 
 ### **1. Struktur Antar Hubungan dan Contohnya**  
 Struktur antar hubungan adalah pola atau cara elemen-elemen dalam suatu sistem saling berinteraksi dan berhubungan satu sama lain. Struktur ini bisa ditemukan dalam berbagai bidang, seperti organisasi, jaringan komputer, ekonomi, dan sosial.
